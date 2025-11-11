@@ -1,7 +1,7 @@
 {
   "home": {
     "hero": {
-      "show": false,
+      "show": true,
       "heading": "Confidence, We Got You",
       "subheading": "Personalized GLP-1 Medication",
       "bulletPoints": {
