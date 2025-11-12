@@ -14,10 +14,10 @@ export default {
     extend: {
       colors: {
         // Dynamic colors from CSS custom properties (set by branding API)
-        backgroundColor: 'var(--color-background, #FDFAF6)',
-        bodyColor: 'var(--color-body, #000000)',
+        backgroundColor: '#FDFAF6',
+        bodyColor: '#000000',
         accentColor1: {
-          DEFAULT: 'var(--color-accentColor1, #A75809)',
+          DEFAULT: '#A75809',
           50: 'color-mix(in srgb, var(--color-accentColor1, #A75809) 50%, transparent)',
         },
         accentColor2: 'var(--color-accentColor2, #F8F2EC)',
