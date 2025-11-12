@@ -11,7 +11,7 @@ export const products: Product[] = [
     category: "newcategory",
     description: "asdasdasdas",
     img: "/assets/images/products/new-product-bundleid-img.png",
-    thumbnail: "",
+    thumbnail: "/assets/images/products/new-product-bundleid-thumbnail.png",
     prices: {
       monthly: 21,
       threeMonthly: 32,
