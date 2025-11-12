@@ -16,6 +16,7 @@ export interface Product {
     threeMonthly?: string;
     sixMonthly?: string;
   }
+  quiz?: string;
   popular?: boolean;
   availability?: "in_stock" | "out_of_stock" | "coming_soon";
   features?: string[];

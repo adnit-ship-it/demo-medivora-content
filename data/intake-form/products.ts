@@ -12,6 +12,7 @@ export const products: Product[] = [
     description: "asdasdasdas",
     img: "/assets/images/products/new-product-bundleid-img.png",
     thumbnail: "/assets/images/products/new-product-bundleid-thumbnail.png",
+    quiz: "",
     prices: {
       monthly: 21,
       threeMonthly: 32,
@@ -38,6 +39,7 @@ export const products: Product[] = [
     description: "Weekly GLP-1 injection for weight loss and diabetes management",
     img: "/assets/images/products/mounjaro-injection.png",
     thumbnail: "/assets/images/products/mounjaro-injection.png",
+    quiz: "",
     prices: {
       monthly: 399,
       threeMonthly: 349,
@@ -66,6 +68,7 @@ export const products: Product[] = [
     description: "Weekly GLP-1 injection for weight loss and blood sugar control edited",
     img: "/assets/images/products/ozempic-injection.png",
     thumbnail: "/assets/images/products/ozempic-injection.png",
+    quiz: "",
     prices: {
       monthly: 39,
       threeMonthly: 34,
@@ -93,6 +96,7 @@ export const products: Product[] = [
     description: "Vitamin B12 injection for energy and neurological health",
     img: "/assets/images/products/methylcobalamin-injection.png",
     thumbnail: "/assets/images/products/methylcobalamin-injection.png",
+    quiz: "",
     prices: {
       monthly: 399,
       threeMonthly: 349,
