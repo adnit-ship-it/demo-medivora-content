@@ -36,29 +36,29 @@ export const products: Product[] = [
   {
     id: "ozempic-injection",
     name: "Ozempic Injection edited",
-    category: "weight-loss",
-    description: "Weekly GLP-1 injection for weight loss and blood sugar control",
+    category: "weight-loss2",
+    description: "Weekly GLP-1 injection for weight loss and blood sugar control edited",
     img: "/assets/images/products/ozempic-injection.png",
     thumbnail: "/assets/images/products/ozempic-injection.png",
     prices: {
-      monthly: 399,
-      threeMonthly: 349,
-      sixMonthly: 349
+      monthly: 39,
+      threeMonthly: 34,
+      sixMonthly: 34
     },
     productBundleIds: {
-      monthly: "awdwad12-awdad-112321",
-      threeMonthly: "awdwad12-awdad-112321",
-      sixMonthly: "awdwad12-awdad-112321"
+      monthly: "awdwad12-awdad-1123212",
+      threeMonthly: "awdwad12-awdad-1123212",
+      sixMonthly: "awdwad12-awdad-1123212"
     },
-    availability: "in_stock",
-    type: "injection",
+    availability: "out_of_stock",
+    type: "oral_drops",
     features: [
       "Weekly subcutaneous injection",
       "GLP-1 receptor agonist",
       "Weight loss support",
-      "Blood sugar control",
-      "Prescription required"
-    ]
+      "new wdired msadp"
+    ],
+    popular: true
   },
   {
     id: "methylcobalamin-injection",
