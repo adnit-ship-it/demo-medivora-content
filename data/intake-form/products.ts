@@ -10,7 +10,7 @@ export const products: Product[] = [
     name: "new product",
     category: "newcategory",
     description: "asdasdasdas",
-    img: "",
+    img: "/assets/images/products/new-product-bundleid-img.png",
     thumbnail: "",
     prices: {
       monthly: 21,
