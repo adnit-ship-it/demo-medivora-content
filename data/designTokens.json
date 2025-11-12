@@ -1,11 +1,11 @@
 {
   "colors": {
     "primary": {
-      "background": "#FDFAF6",
-      "body": "#000000",
+      "background": "#684c27",
+      "body": "#ad2e2e",
       "accent1": "#A75809",
-      "accent2": "#F8F2EC",
-      "cta": "#E3D5D4"
+      "accent2": "#796653",
+      "cta": "#b0514a"
     },
     "semantic": {
       "success": "#10B981",
