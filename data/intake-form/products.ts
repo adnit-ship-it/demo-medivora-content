@@ -12,7 +12,7 @@ export const products: Product[] = [
     description: "asdasdasdas",
     img: "/assets/images/products/new-product-bundleid-img.png",
     thumbnail: "/assets/images/products/new-product-bundleid-thumbnail.png",
-    quiz: "",
+    quiz: "nad-plus",
     prices: {
       monthly: 21,
       threeMonthly: 32,
