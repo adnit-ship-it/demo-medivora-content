@@ -6,6 +6,32 @@ import type { Product } from "~/types/intake-form/checkout";
 
 export const products: Product[] = [
   {
+    id: "new-product-bundleid",
+    name: "new product",
+    category: "newcategory",
+    description: "asdasdasdas",
+    img: "",
+    thumbnail: "",
+    prices: {
+      monthly: 21,
+      threeMonthly: 32,
+      sixMonthly: 12
+    },
+    productBundleIds: {
+      monthly: "312",
+      threeMonthly: "213",
+      sixMonthly: "123"
+    },
+    type: "oral_pills",
+    popular: true,
+    features: [
+      "31231",
+      "123123",
+      "321323",
+      "213"
+    ]
+  },
+  {
     id: "mounjaro-injection",
     name: "Mounjaro Injection",
     category: "weight-loss",
