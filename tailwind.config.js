@@ -14,7 +14,7 @@ export default {
     extend: {
       colors: {
         // Dynamic colors from CSS custom properties (set by branding API)
-        backgroundColor: '#5E482B',
+        backgroundColor: '#E2DAD0',
         bodyColor: '#000000',
         accentColor1: {
           DEFAULT: '#A75809',
