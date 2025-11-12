@@ -6,13 +6,20 @@ export const products: Product[] = [
   {
     id: "mounjaro-injection",
     name: "Mounjaro Injection",
+    category: "weight-loss",
     description:
       "Weekly GLP-1 injection for weight loss and diabetes management",
     img: "/assets/images/products/mounjaro-injection.png",
     thumbnail: "/assets/images/products/mounjaro-injection.png",
     prices: {
       monthly: 399,
-      semiannually: 349,
+      threeMonthly: 349,
+      sixMonthly: 349,
+    },
+    productBundleIds: {
+      monthly: "awdwad12-awdad-112321",
+      threeMonthly: "awdwad12-awdad-112321",
+      sixMonthly: "awdwad12-awdad-112321",
     },
     popular: true,
     availability: "in_stock",
@@ -28,13 +35,20 @@ export const products: Product[] = [
   {
     id: "ozempic-injection",
     name: "Ozempic Injection",
+    category: "weight-loss",
     description:
       "Weekly GLP-1 injection for weight loss and blood sugar control",
     img: "/assets/images/products/ozempic-injection.png",
     thumbnail: "/assets/images/products/ozempic-injection.png",
     prices: {
       monthly: 399,
-      semiannually: 349,
+      threeMonthly: 349,
+      sixMonthly: 349,
+    },
+    productBundleIds: {
+      monthly: "awdwad12-awdad-112321",
+      threeMonthly: "awdwad12-awdad-112321",
+      sixMonthly: "awdwad12-awdad-112321",
     },
     availability: "in_stock",
     type: "injection",
@@ -49,12 +63,19 @@ export const products: Product[] = [
   {
     id: "methylcobalamin-injection",
     name: "Methylcobalamin Injection",
+    category: "energy",
     description: "Vitamin B12 injection for energy and neurological health",
     img: "/assets/images/products/methylcobalamin-injection.png",
     thumbnail: "/assets/images/products/methylcobalamin-injection.png",
     prices: {
       monthly: 399,
-      semiannually: 349,
+      threeMonthly: 349,
+      sixMonthly: 349,
+    },
+    productBundleIds: {
+      monthly: "awdwad12-awdad-112321",
+      threeMonthly: "awdwad12-awdad-112321",
+      sixMonthly: "awdwad12-awdad-112321",
     },
     availability: "in_stock",
     type: "injection",
